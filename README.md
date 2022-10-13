@@ -36,38 +36,18 @@ No NoteCreate também foi feito o reaproveitamento de cógido e também criado u
 ![image](https://user-images.githubusercontent.com/99925589/195677910-43bd12c1-e7d4-42a4-b612-17e74aa015b9.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>Esse foi o resultado:</p>
-<a>desafio-c6-bank.vercel.app</a>
-
 ## Aprendizado 
 
- * <p> Aprimoramento do html semântico; </p>
- * <p> Uso do CSS com sass;</p>
- * <p> Criar evento do tipo scroll para deixar um menu fixo e fazê-lo mudar as características a partir de determinada posição</p>
- * <p> Criar um DropDown para mostrar mais opções de navegação;</p>
- * <p> Uso do evento click;</p>
- * <p> Desenvolvimento de um Modal para o menu Mobile;</p>
- * <p> Uso da biblioteca AOS Animate;</p>
- * <p> Uso do @keyframes;</p>
+ * <p> Utilização do framework react; </p>
+ * <p> Uso do CSS-in-JS;</p>
+ * <p> Estilo global para cores</p>
+ * <p> uso do theme</p>
+ * <p> Como usar as variavés de cores;</p>
+ * <p> Styled-components;</p>
+ * <p> Uso de biblioteca para icons;</p>
+ * <p> Uso do if ternário;</p>
+ * <p> Rotas e Navegação;</p>
  
 
  ## Mobile 📱
- ![image](https://user-images.githubusercontent.com/99925589/193409256-d0b01944-beb4-4686-a26f-8b1eddc9f4bc.png)
+ Não foi trabalhado o responsivo
