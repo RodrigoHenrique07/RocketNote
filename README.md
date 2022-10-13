@@ -46,7 +46,7 @@ No NoteCreate também foi feito o reaproveitamento de cógido e também criado u
  * <p> Styled-components;</p>
  * <p> Uso de biblioteca para icons;</p>
  * <p> Uso do if ternário;</p>
- * <p> Rotas e Navegação;</p>
+ * <p> Uso do react-router-dom;</p>
  
 
  ## Mobile 📱
