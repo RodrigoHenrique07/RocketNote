@@ -9,6 +9,7 @@ align-items:stretch;
 
 
 
+
 `;
 
 export const Form = styled.form`
@@ -39,7 +40,7 @@ text-align: center;
 
 > a{
     color: ${({ theme }) => theme.COLORS.ORANGE};
-    margin-top: 124px;
+    margin-top: 64px;
 }
 
 `;

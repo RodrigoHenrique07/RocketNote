@@ -1,7 +1,16 @@
 import { Container, Profile, Logout } from "./style";
 import { RiShutDownLine } from "react-icons/ri"
+import { useNavigate } from 'react-router-dom'
 
 export function Header () {
+
+    
+    const navigate = useNavigate()
+
+
+const Sair = ()=> {
+    navigate('/')
+}
 
     return(
         <Container>
@@ -17,7 +26,7 @@ export function Header () {
                 </div>
             </Profile>  
 
-            <Logout>
+            <Logout onClick={Sair}>
                 <RiShutDownLine />
             </Logout>
         </Container>

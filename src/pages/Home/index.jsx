@@ -8,7 +8,9 @@ import { Section } from '../../Components/Section';
 import {ButtonText} from '../../Components/ButtonText';
 
 
+
 export function Home (){
+
 
 
     return(

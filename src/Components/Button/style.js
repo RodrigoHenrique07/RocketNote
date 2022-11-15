@@ -1,8 +1,5 @@
 import styled from "styled-components";
 
-
-
-
 export const Container = styled.button`
 width:100%;
 background-color: ${({ theme }) => theme.COLORS.ORANGE};
@@ -15,6 +12,14 @@ padding: 0 16px;
 border-radius: 10px;
 font-weight: 500;
 margin-top: 16px;
+
+display:flex;
+align-items: center;
+justify-content: center;
+
+svg{
+    margin-right: 15px;
+}
 
 &:disabled{
     opacity: 0.5;
